@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Mobile Simulation Using DEVS</string>
+
+    <string name="spinner_label_text">Population Filter:</string>
+    <string-array name="parcel_categories">
+        <item>Select an expression</item>
+        <item>population BETWEEN 500 AND 1000</item>
+        <item>population &lt; 500</item>
+    </string-array>
+
+</resources>
+
